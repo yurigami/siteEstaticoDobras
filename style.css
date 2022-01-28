@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(251, 215, 8);
+}
+
+h1 {
+    style= "background-color": rgb(251, 215, 8)  
+    text-align:left;
+    margin: 5px;
+    padding-left: 5%;
+    font-family: Roboto;
+}
+
+#banner { 
+    margin: 5px;
+    padding-left:5%;
+    width: 90%;
+}
+
+.principal {
+    background-color: rgb(125, 167, 221);
+    font-family: Roboto;
+    text-align: center;
+    font-size: 16px;
+    margin: 5%;
+    padding: 10px;
+
+}
+
+p {
+        font-family: Roboto;
+        margin: 2%;
+}
+
+#missao { 
+    style="font-size: 20px;
+}
+
+em strong {
+    color: red;    
+
+}
+
+.itens {
+font-style: italic;
+font-family: roboto;
+
+}
+
+.beneficios {
+    background: rgb(125, 167, 221);
+    font-family: Roboto;
+    padding: 10px;
+    margin: 5%;
+}
+
+h2 {
+      font-family: roboto;
+      text-align: center;
+      padding-bottom: 2%;
+     
+    
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    
+}
+
+.imagembeneficio {
+    width: 40%;
+    padding-left: 5%;
+}
+
+h3 {
+    margin-left: 5%;
+}
